@@ -10,6 +10,7 @@ import br.edu.uepb.nutes.simplesurvey.example.R;
 
 
 public class MainActivity extends AppCompatActivity {
+
     private Button button;
 
     @Override
@@ -26,4 +27,5 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+
 }
